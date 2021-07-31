@@ -1,0 +1,8 @@
+# git content
+.git
+# log files and databases
+*.log
+*.sql
+*.sqlite
+# modules
+node_modules
